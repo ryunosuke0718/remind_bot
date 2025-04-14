@@ -1,3 +1,4 @@
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,3 +173,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+
+# Python 仮想環境フォルダ (例: env_discord)
+env_discord/
+# またはお使いの仮想環境名
+
+
+
+# OS固有ファイル (例: macOS)
+.DS_Store
+
